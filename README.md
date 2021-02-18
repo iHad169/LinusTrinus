@@ -24,7 +24,8 @@ TrinusVR screen streaming server for Linux
 
 1. Start the TrinusVR Android client and configure it.
 2. Press the start button in the TrinusVR Android client.
-3. Run LinuxTrinus: `python3 main.py`
+3. Install dependencies `pip3 install wand`
+4. Run LinuxTrinus: `python3 main.py`
 
 ## Thanks
 
